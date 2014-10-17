@@ -1,10 +1,15 @@
+### MASTER IN SOFTWARE FREE
+Master Website: http://master.libresoft.es
+
 ###UNIVERSIDAD REY JUAN CARLOS
 ACADEMIC YEAR 2013/2014
 
-### MASTER'S THESIS PROJECT IN SOFTWARE FREE
- Title :
 
-    Writeen by : Amal Roumi.
+
+### FINAL PROJECT 
+ Title :Migration to free/open source.
+
+    Written by : Amal Roumi.
     Tutor: DR.Gregorio Robles
    
   All sources  of project are in :https://github.com/Roumia/Master_Thesis.git .

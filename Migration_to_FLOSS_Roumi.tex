@@ -1,0 +1,171 @@
+% ================================================
+%   Copyright 2014 Amal Roumi -  Roumia@gmail.com.
+%
+%    This work is licensed under a Creative Commons 3.0 Unported License.
+%    To view a copy of this license visit:
+% 
+%   http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+% ================================================
+
+\documentclass[a4paper, 12pt]{book}
+\usepackage[a4paper, left=2.5cm, right=2.5cm, top=3cm, bottom=3cm]{geometry}
+\setcounter{secnumdepth}{3} %  Numbered Subsubsections
+\setcounter{tocdepth}{3} %  adding to the index
+\usepackage{indentfirst} %  Indent first paragraph after section header
+\usepackage[printonlyused]{acronym}
+\usepackage{times}
+\usepackage{caption}
+\usepackage{color}
+\usepackage{eurosym} % for  $
+
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[textwidth=1cm]{todonotes}
+\usepackage[hyphens]{url}
+\usepackage[english]{babel}
+\usepackage{float}  
+\usepackage[nottoc, notlot, notlof, notindex]{tocbibind}
+\usepackage{latexsym}  %mathematical symbols
+\usepackage{graphicx}
+\usepackage[colorlinks,bookmarksopen]{hyperref}
+\usepackage{wrapfig}
+\urlstyle{rm} % to change the defualt font for the url to rm
+\usepackage[compact]{titlesec}  
+\captionsetup{textfont={color=NavyBlue},labelfont={color=NavyBlue}}
+\usepackage[helvetica]{quotchap}     
+\hypersetup{pdftitle={Open source migration },
+                     pdfauthor={Amal  Al Roumi},
+					 pdfcreator={University Rey Juan Carlos (Madrid, Spain)},
+					 pdfproducer=PDFLaTeX,
+					 pdfsubject={Master in Software Libre 2013/2014},
+				     linkcolor=MidnightBlue,
+				     citecolor=OliveGreen,
+				     filecolor=violet,
+    				 urlcolor=MidnightBlue}
+\renewcommand*{\thesubsubsection}{\Alph{subsubsection}}
+\frenchspacing
+\title{Migration to Free and Open Source Software}
+\author{Amal Roumi}
+\renewcommand{\baselinestretch}{1.5}  
+%----------------------------------------------------------------
+\begin{document}
+\renewcommand{\refname}{Bibliography}  
+\renewcommand{\appendixname}{Appendix}
+%--------------------------------------------------------------------------------------
+%TITLE %
+%--------------------------------------------------------------------------------------
+\begin{titlepage}
+\begin{center}
+\begin{tabular}[c]{c c}
+\includegraphics[scale=0.25]{img/logo.png} &
+\begin{tabular}[b]{l}
+\Huge
+\textsf{UNIVERSITY } \\
+\Huge
+\textsf{REY JUAN CARLOS} \\
+\end{tabular}\\
+\end{tabular}
+
+\vspace{3cm}
+
+\Large
+Master in Software Libre
+\vspace{0.4cm}
+
+\large
+Academic  years  2013/2014
+
+\vspace{0.8cm}
+
+Final project
+\vspace{2.5cm}
+
+\LARGE
+Migration to Free and Open Source Software
+\vspace{4cm}
+
+\large
+Author: Amal Al Roumi \\
+Tutor: Dr. Gregorio Robles
+\end{center}
+\end{titlepage}
+%--------------------------------------------------------------------------------------
+%ACKNOWLEDGEMENTS %
+%--------------------------------------------------------------------------------------
+\newpage
+\thispagestyle{empty}
+~
+
+\newpage
+~
+\thispagestyle{empty}
+\vspace{3cm}
+\begin{flushright}
+\textbf{\textit{ACKNOWLEDGEMENTS}} \\
+\textit{I would like to express my deep gratitude to Dr. Gregorio my
+  supervisor, for his patient guidance, enthusiastic encouragement and
+  useful critiques of this work.
+I would also like to thank the Libresoft teams , for there advice and assistance. \\
+Finally, to my caring, loving, and supportive husband, Dr.Saud , my
+deepest gratitude, his encouragement when the times got rough are much appreciated.and my family  for their support and encouragement throughout my study.
+ }
+ 
+ \vspace{2cm}
+\textbf{\textit{Dedication}} \\
+\textit{To you my whole life to you my   \textbf{Mother}.}
+\end{flushright}
+%--------------------------------------------------------------------------------------
+%License
+%--------------------------------------------------------------------------------------
+\newpage
+\thispagestyle{empty}
+~
+\newpage
+~
+\thispagestyle{empty}
+\vspace{16cm}
+\begin{flushright}
+\includegraphics[scale=1.2]{img/cc-by-ns.png} \\
+
+(C) 2014 Some rights reserved ,Migration to free/ open source by Amal Al Roumi is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported  License.available in
+\urlstyle{rm}
+ \url {http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode}
+Source files for this document are available at: \url{https://github.com/Roumia/Master_Thesis.git}
+
+\end{flushright}
+%------------------------------------------------------------------------
+\newpage
+~
+\thispagestyle{empty}
+\tableofcontents  
+\listoffigures  
+
+%----------------------------------------------------------------------------------------------
+%Summary 
+%----------------------------------------------------------------------------------------------
+\chapter*{Summary}
+\markboth{SUMMARY}{SUMMARY}
+\label{chap:summary}
+	Free and Open Source Software has many advantages over proprietary software system. It is free and can be customized in a number of different ways. This research explores the thesis that government entities should adopt free and open source software as their primary platform for doing business. The research used an examination of case studies of the migration process as well as outside research to explore the topic. Expense was found to be one of the main reasons found for migrating to free/open source software. Free/Open source software is free. Closed software is owned and licensed by a corporation. Compatibility was found to be one of the greatest challenges to overcome. 
+	The research examined the Zaragoza  case study in Spain as the model for the suggested migration plan. 
+
+%----------------------------------------------------------------------------------------------
+\input{Introduction.tex}
+\input{Benefits.tex}
+\input{Migrationplan.tex}
+\input{Obstacles.tex} 
+\input{CaseofStudy.tex}
+\input{Conclusions.tex}
+%----------------------------------------------------------------------------------------------
+\appendix
+\input{appendix.tex}
+%----------------------------------------------------------------------------------------------
+% BIBLIOGRAPHY %
+\nocite{*}
+\bibliographystyle{abbrv}
+\bibliography{bibliography}
+\label{Bibliography}
+
+%----------------------------------------------------------------------------------------------
+
+\end{document}
