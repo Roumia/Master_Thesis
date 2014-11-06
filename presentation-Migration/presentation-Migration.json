@@ -1,0 +1,801 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/9I7W4Xm.jpg",
+          "type": "Image",
+          "x": 205,
+          "y": 34,
+          "scale": {
+            "x": 0.34539089848308063,
+            "y": 0.34539089848308063,
+            "width": 592.0000000000002,
+            "height": 225.54025670945165
+          },
+          "imageType": "JPG",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 264,
+          "y": 353,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#000000\"><font face=\"Ubuntu\">Master’s in Free Software<br></font></font><br>",
+          "size": 46,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 347,
+          "y": 445,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#000000\">Academic year 2013/2014</font><br>",
+          "size": 32,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 396,
+          "y": 572,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#e5b908\">Final Project</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 33,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 512,
+      "y": -461,
+      "background": "bg-transparent",
+      "surface": "bg-surf-grad-light",
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 35,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><font face=\"Abril Fatface, cursive\" color=\"#c10931\">Migrations to Free and Open&nbsp;</font></div><div style=\"text-align: center;\"><font face=\"Abril Fatface, cursive\" color=\"#c10931\">Source Software</font></div>",
+          "size": 69,
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 159,
+          "y": 211,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><font face=\"Abril Fatface, cursive\" color=\"#ca3e3e\">&nbsp;Motivations, Planning and Case Studies</font><br></div>",
+          "size": 37,
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 346,
+          "y": 604,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: left;\"><font face=\"Hammersmith One, sans-serif\">Author: Amal Al Roumi &nbsp; &nbsp; &nbsp;&nbsp;</font></div><div style=\"text-align: center;\"><span style=\"font-family: 'Hammersmith One', sans-serif;\">Tutor: Dr. Gregorio Robles</span></div><div style=\"text-align: center;\"><br></div>",
+          "size": 36,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 10,
+          "y": 724,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\">This work by Amal Roumi - Roumia@gmai.com is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.</font><br>",
+          "size": 16,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/UFY5oEv.png",
+          "type": "Image",
+          "x": 19,
+          "y": 683,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 897,
+      "y": 390,
+      "background": "bg-transparent",
+      "surface": "bg-surf-grad-light",
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 265,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: 'Hammersmith One', sans-serif;\">To explore the migration&nbsp;</span></div><font face=\"Hammersmith One, sans-serif\"><div style=\"text-align: center;\">from&nbsp;proprietary software (CSS)</div><div style=\"text-align: center;\">toFree and Open source software&nbsp;(FLOSS).</div></font><div style=\"text-align: center;\"><br></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 46,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 62,
+          "text": "<br>",
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 58,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "<font color=\"#ca3e3e\" face=\"Abril Fatface, cursive\">Goals:&nbsp;</font><br>",
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 57,
+      "y": 318,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 529,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><div style=\"text-align: left;\"><span style=\"font-family: 'Hammersmith One', sans-serif;\">&nbsp;Determine obstacles</span>&nbsp;<span style=\"font-family: 'Hammersmith One', sans-serif;\">in the migration process.</span></div><div style=\"text-align: left;\"><span style=\"font-family: 'Hammersmith One', sans-serif;\"><br></span></div><span style=\"font-family: 'Hammersmith One', sans-serif;\"><div style=\"text-align: left;\">&nbsp;Explore case studies.&nbsp;</div></span></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 350,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: left;\"><span style=\"font-family: 'Hammersmith One', sans-serif;\">Determine the best method for migration.</span></div><div style=\"text-align: left;\"><span style=\"font-family: 'Hammersmith One', sans-serif;\"><br></span></div><div style=\"text-align: left;\"><span style=\"font-family: 'Hammersmith One', sans-serif;\">&nbsp;Develop a plan for successful migration to FLOSS.</span></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 169,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: left;\"><span style=\"font-family: 'Hammersmith One', sans-serif;\">&nbsp;Discover the main reasons why individuals and&nbsp;</span></div><font face=\"Hammersmith One, sans-serif\"><div style=\"text-align: left;\">organisations,<font style=\"line-height: 1em;\"><span style=\"line-height: normal;\">are attracted to FLOSS&nbsp;</span></font>by examine&nbsp;</div><div style=\"text-align: left;\">the technical, economic, and social benefits of FLOSS.</div></font>",
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 65,
+          "text": "<font color=\"#ca3e3e\" face=\"Abril Fatface, cursive\">&nbsp;Objectives&nbsp;</font><br>",
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "background": "bg-transparent",
+      "x": 446,
+      "y": 120
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 17,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#c10931\" face=\"Abril Fatface, cursive\">Outline:</font>",
+          "size": 95,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 179,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><b><span style=\"line-height: normal;\">Goals and Objective.</span><br></b></li><li><span style=\"line-height: normal;\"><b>Motivation for using FLOSS.</b></span></li><li><span style=\"line-height: normal;\"><b>Migration plan.</b></span></li><li><span style=\"line-height: normal;\"><b>Obstacles.</b></span></li><li><span style=\"line-height: normal;\"><b>Case of study.</b></span></li><li><span style=\"line-height: normal;\"><b>Conclusion.</b></span><br></li></ul>",
+          "size": 55,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 191,
+      "y": 123,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 81,
+          "y": 338,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 69,
+          "text": "<div style=\"text-align: center;\"><font color=\"#ca3e3e\" face=\"Abril Fatface, cursive\">Motivation for using&nbsp;FLOSS</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.77,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 711,
+      "y": 111,
+      "background": "bg-transparent",
+      "surface": "bg-surf-grad-light"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/NTuUkdy.jpg",
+          "type": "Image",
+          "x": 10,
+          "y": 7,
+          "scale": {
+            "x": 0.9726562500000001,
+            "y": 0.9726562500000001,
+            "width": 996.0000000000001,
+            "height": 747.0000000000001
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 20,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0.01,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 928,
+      "y": 156,
+      "surface": "bg-default",
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/4T4ZcpG.jpg",
+          "type": "Image",
+          "x": 21,
+          "y": 9,
+          "scale": {
+            "x": 0.46460384435067975,
+            "y": 0.46460384435067975,
+            "width": 990.9999999999999,
+            "height": 743.3661509610876
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0.01,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1042,
+      "y": 41
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/DrMqS0K.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": -5,
+          "scale": {
+            "x": 1.0166015625,
+            "y": 1.0166015625,
+            "width": 1041,
+            "height": 780.75
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0.01,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1155,
+      "y": 152
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 212,
+          "y": 156,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 84,
+          "text": "<font color=\"#c10931\" face=\"Abril Fatface, cursive\">Migration plan</font>",
+          "selected": false
+        }
+      ],
+      "z": 44,
+      "impScale": 4,
+      "rotateX": 1.15,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 538,
+      "y": 692,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/HSTt21u.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 789,
+      "y": 760
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/gD4PN64.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 841,
+      "y": 842
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/rK1ka9T.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 726,
+      "y": 843
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/wRxdC2W.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 559,
+      "y": 845
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 21,
+          "y": 294,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(202, 62, 62); font-family: 'Abril Fatface', cursive;\">Obstacles that face migration&nbsp;</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0.77,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 405,
+      "y": 851
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/A6OE2yb.png",
+          "type": "Image",
+          "x": -2,
+          "y": -13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 232,
+      "y": 852
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 54,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 63,
+          "text": "<font face=\"Abril Fatface, cursive\" color=\"#ca3e3e\">Next Steps</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 208,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><font color=\"#020700\"><span style=\"font-family: Lato; line-height: normal;\">Future work .</span><br></font></li><li><font color=\"#020700\"><span style=\"font-family: Lato; line-height: normal;\">Lessons learned.</span><br></font></li></ul><font face=\"Lato\" color=\"#255216\"><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0.38,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 241,
+      "y": 745
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 131,
+          "y": 423,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: left;\"><font face=\"Gorditas, cursive\">Amal Al Roumi</font></div>",
+          "size": 100,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 191,
+          "y": 276,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 117,
+          "text": "<font face=\"Gorditas, cursive\" color=\"#255216\">Thank You<br></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 307,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#000000\">Roumia@gmail.com</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 9,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 391,
+      "y": 280,
+      "background": "bg-transparent",
+      "surface": "bg-surf-grad-light",
+      "markdown": ""
+    }
+  ],
+  "background": "bg-transparent",
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://i.imgur.com/9I7W4Xm.jpg",
+        "type": "Image",
+        "x": 205,
+        "y": 34,
+        "scale": {
+          "x": 0.34539089848308063,
+          "y": 0.34539089848308063,
+          "width": 592.0000000000002,
+          "height": 225.54025670945165
+        },
+        "imageType": "JPG",
+        "selected": false,
+        "skewY": 0
+      },
+      {
+        "TextBox": {},
+        "x": 264,
+        "y": 353,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#000000\"><font face=\"Ubuntu\">Master’s in Free Software<br></font></font><br>",
+        "size": 46,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 347,
+        "y": 445,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#000000\">Academic year 2013/2014</font><br>",
+        "size": 32,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 396,
+        "y": 572,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font face=\"Ubuntu\" color=\"#e5b908\">Final Project</font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 33,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 512,
+    "y": -461,
+    "background": "bg-transparent",
+    "surface": "bg-surf-grad-light",
+    "markdown": ""
+  },
+  "fileName": "presentation-unnamed",
+  "surface": "bg-surf-grad-light",
+  "customStylesheet": "/*.example {bghfg\n\tborder: 4px groove orange;\n}*/",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 606,
+  "overviewY": 195.5
+}
