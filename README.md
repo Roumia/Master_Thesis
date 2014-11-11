@@ -7,8 +7,8 @@ ACADEMIC YEAR 2013/2014
 
 
 ### FINAL PROJECT 
- Title :Migration to free/open source.
-
+ Title :Migrations to Free and Open Source Software: Motivations, Planning and Case Studies
+ 
     Written by : Amal Roumi.
     Tutor: DR.Gregorio Robles
    
